@@ -1,0 +1,12 @@
+.vscode
+build
+*/**/.DS_Store
+
+# clion
+.idea
+cmake-build-debug
+
+# shaders
+*/**/*.spv
+
+__pycache__
